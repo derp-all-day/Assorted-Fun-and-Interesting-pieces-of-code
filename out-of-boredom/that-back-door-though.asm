@@ -29,13 +29,13 @@ PUTP MACRO end_char
 ENDM
 jamie MACRO
         PUTC '-'
-        PUTC 'F'
-        PUTC 'u'
-        PUTC 'c'
-        PUTC 'k'
-        PUTC ' '
-        PUTC 'U'
-        PUTC '!'
+        PUTC 'G'
+        PUTC 'o'
+        PUTC 'o'
+        PUTC 'd'
+        PUTC 'b'
+        PUTC 'y'
+        PUTC 'e'
 ENDM
 POPN MACRO num,a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p
         MOV     dx,num
