@@ -9,4 +9,4 @@ $f= "". /*                         {                                            
 $zero=1;/*                         }                                                        while(1){}*/
 $ns="\x27                                                                                   ".PHP_EOL;/*
 */$notafunction="\n".'}';$x=2;while($x){$x--;$f=str_replace("     ","",$f);}$f="\n{".$f;echo $f.'';/**/;
-$x670='notafuncti0n';$printf=$x670;if($null[15]){echo"";}echo@$$x670.$notafunction;/* opsftw - Tux. */?>
+$x670='notafuncti0n';$printf=$x670;if($null[15]){echo"";}echo@$$x670.$notafunction;/*Andrew Blalock */?>
